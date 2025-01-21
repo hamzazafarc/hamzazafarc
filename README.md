@@ -60,20 +60,20 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=hyzkin&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=hyzkin&theme=dracula&hide_border=false)<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hyzkin&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=hamzazafarc&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=hamzazafar&theme=dracula&hide_border=false)<br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzazafarc&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <hr>
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=hyzkin&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=hamzazafarc&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 <hr>
 
 ### 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=hyzkin&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=hamzazafarc&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 <hr>
